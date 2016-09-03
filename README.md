@@ -12,3 +12,5 @@ A curated list of awesome things related to Phaser
 - [Discover Phaser](https://www.discoverphaser.com/)
 - [Interphase #1](https://gumroad.com/l/ySfMa/newyear)
 - [Starship Defender](https://leanpub.com/starshipdefender)
+- [Game Development for Human Beings (Free Ebook)](https://gamedevacademy.org/free-ebook-game-development-for-human-beings/)
+- [Making Your First HTML5 Game with Phaser](https://leanpub.com/makingyourfirsthtml5gamewithphaser)
