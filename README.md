@@ -14,3 +14,4 @@ A curated list of awesome things related to Phaser
 - [Starship Defender](https://leanpub.com/starshipdefender)
 - [Game Development for Human Beings (Free Ebook)](https://gamedevacademy.org/free-ebook-game-development-for-human-beings/)
 - [Making Your First HTML5 Game with Phaser](https://leanpub.com/makingyourfirsthtml5gamewithphaser)
+- [From null to full HTML5 cross platform](https://gumroad.com/l/HIEux)
