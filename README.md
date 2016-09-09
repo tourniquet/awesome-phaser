@@ -8,6 +8,9 @@ A curated list of awesome things related to Phaser
 - [How to Make Flappy Bird in HTML5 With Phaser - Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
 - [How to Make Flappy Bird in HTML5 With Phaser - Part 3](http://www.lessmilk.com/tutorial/flappy-bird-phaser-3)
 
+### Video tutorials
+- [Phaser Beginner Tutorial](https://www.youtube.com/playlist?list=PLjyPOk-OH-AaZUSWl9EjgsvDVWhl6wAn8)
+
 ### Books
 - [Discover Phaser](https://www.discoverphaser.com/)
 - [Interphase #1](https://gumroad.com/l/ySfMa/newyear)
