@@ -10,6 +10,7 @@ A curated list of awesome things related to Phaser
 
 ### Video tutorials
 - [Phaser Beginner Tutorial](https://www.youtube.com/playlist?list=PLjyPOk-OH-AaZUSWl9EjgsvDVWhl6wAn8)
+- [Advanced Game Development with Phaser](https://www.youtube.com/playlist?list=PLnEt5PBXuAmvsj26cImNMPFyfaGh8CXZl)
 
 ### Books
 - [Discover Phaser](https://www.discoverphaser.com/)
