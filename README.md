@@ -7,6 +7,9 @@ A curated list of awesome things related to Phaser
 - [How to Make Flappy Bird in HTML5 With Phaser - Part 1](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
 - [How to Make Flappy Bird in HTML5 With Phaser - Part 2](http://www.lessmilk.com/tutorial/flappy-bird-phaser-2)
 - [How to Make Flappy Bird in HTML5 With Phaser - Part 3](http://www.lessmilk.com/tutorial/flappy-bird-phaser-3)
+- [Getting Started with Phaser Part 1: Web Server](http://shawnhymel.com/1148/getting-started-with-phaser-part-1-web-server/)
+- [Getting Started with Phaser Part 2: Drawing Text](http://shawnhymel.com/1190/getting-started-with-phaser-part-2-drawing-text/)
+- [Getting Started with Phaser Part 3: Sprites and Movement](http://shawnhymel.com/1220/getting-started-with-phaser-part-3-sprites-and-movement/)
 
 ### Video tutorials
 - [Phaser Beginner Tutorial](https://www.youtube.com/playlist?list=PLjyPOk-OH-AaZUSWl9EjgsvDVWhl6wAn8)
