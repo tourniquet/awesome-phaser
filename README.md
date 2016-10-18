@@ -14,6 +14,7 @@ A curated list of awesome things related to Phaser
 ### Video tutorials
 - [Phaser Beginner Tutorial](https://www.youtube.com/playlist?list=PLjyPOk-OH-AaZUSWl9EjgsvDVWhl6wAn8)
 - [Advanced Game Development with Phaser](https://www.youtube.com/playlist?list=PLnEt5PBXuAmvsj26cImNMPFyfaGh8CXZl)
+- [Phaser Game Design Tutorial Videos by Kris Occhipinti](http://html5gamedevelopment.com/phaser-game-design-tutorial-videos/)
 
 ### Books
 - [Discover Phaser](https://www.discoverphaser.com/)
@@ -22,3 +23,4 @@ A curated list of awesome things related to Phaser
 - [Game Development for Human Beings (Free Ebook)](https://gamedevacademy.org/free-ebook-game-development-for-human-beings/)
 - [Making Your First HTML5 Game with Phaser](https://leanpub.com/makingyourfirsthtml5gamewithphaser)
 - [From null to full HTML5 cross platform](https://gumroad.com/l/HIEux)
+- [An Introduction to HTML5 Game Development with Phaser.js](https://www.amazon.com/Introduction-HTML5-Game-Development-Phaser-js/dp/113892184X)
